@@ -1,0 +1,15 @@
+body {
+	text-align: center;
+	background: yellow;
+}
+h1,h3 {
+	text-decoration: underline;
+	text-shadow: 3px 3px 7px;
+}
+.pb {
+	width: 300px;
+}
+.logo {
+	width: 120px;
+}
+
